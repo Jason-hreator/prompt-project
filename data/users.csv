@@ -1,0 +1,3 @@
+id,username,name,email,password,role,status,avatar,bio,website,location,prompts_count,comments_count,likes_count,register_date,last_login
+1,"admin","管理员","admin@example.com","admin123","admin","活跃","/avatars/default.png","","","",0,0,0,"2024-04-01T00:00:00Z","2024-04-01T00:00:00Z"
+2,"user","普通用户","user@example.com","user123","user","活跃","/avatars/default.png","","","",0,0,0,"2024-04-01T00:00:00Z","2024-04-01T00:00:00Z"

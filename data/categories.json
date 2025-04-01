@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "解决问题型",
+    "slug": "problem-solving",
+    "description": "帮助用户解答各种问题和疑惑的提示词",
+    "promptCount": 152,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2025-03-30"
+  },
+  {
+    "id": 2,
+    "name": "创意生成型",
+    "slug": "creative",
+    "description": "用于激发创意和生成各类创意内容的提示词",
+    "promptCount": 89,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01"
+  },
+  {
+    "id": 3,
+    "name": "知识学习型",
+    "slug": "learning",
+    "description": "帮助用户学习各种知识和技能的提示词",
+    "promptCount": 76,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01"
+  },
+  {
+    "id": 4,
+    "name": "效率提升型",
+    "slug": "productivity",
+    "description": "提高工作和学习效率的提示词",
+    "promptCount": 113,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01"
+  },
+  {
+    "id": 5,
+    "name": "决策辅助型",
+    "slug": "decision",
+    "description": "帮助用户做出更好决策的提示词",
+    "promptCount": 42,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01"
+  },
+  {
+    "id": 6,
+    "name": "通用模板",
+    "slug": "templates",
+    "description": "通用的提示词模板，适用于多种场景",
+    "promptCount": 35,
+    "createdAt": "2024-04-01",
+    "updatedAt": "2024-04-01"
+  }
+]
